@@ -40,3 +40,21 @@ Here's an overview of features you'll learn about in this course:
 <strong>Metadata:</stong> How to add metadata and prepare your application for social sharing.
 </li>
 </ul>
+
+- Getting Started (Ch 1)
+- CSS Styling (Ch 2)
+- Optimizing Fonts & Images (Ch 3)
+- Creating Layouts & Pages (Ch 4)
+- Page Navigation (Ch 5)
+- Database Setup (Ch 6)
+- Data Fetching (Ch 7)
+- Static & Dynamic Rendering (Ch 8)
+- Streaming (Ch 9)
+- Partial Prerendering (Ch 10)
+- Search & Pagination (Ch 11)
+- Mutating Data (Ch 12)
+- Handling Errors (Ch 13)
+- Improving Accessibility (Ch 14)
+- Adding Authentication (Ch 15)
+- Adding Metadata (Ch 16)
+- Next Steps (Ch 17)
